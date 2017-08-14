@@ -16,3 +16,5 @@
 ```
 link:[생활코딩][coding]
 [coding]: https://opentutorials.org/course/1 "생화로딩 사이트로 이동"
+
+[생활코딩](https://opentutorials.org/course/1)
